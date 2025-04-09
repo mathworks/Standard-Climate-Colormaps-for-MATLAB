@@ -5,9 +5,9 @@ MATLAB live script to select, import, preview, and save the standard IPCC colorm
 
 ## IPCC Colormaps
 - **Continuous and Discrete:**
-![open palette]()
+![open palette](https://github.com/mathworks/Standard-Climate-Colormaps-for-MATLAB/blob/main/Continuous-Discrete_palettes.png)
 - **Categorical:**
-![open palette]()
+![open palette](https://github.com/mathworks/Standard-Climate-Colormaps-for-MATLAB/blob/main/Categorical_palettes.png)
 
 ## Description
 
