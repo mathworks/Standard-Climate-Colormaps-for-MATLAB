@@ -3,6 +3,13 @@
 # Standard Climate Colormaps for MATLAB&reg;
 MATLAB live script to select, import, preview, and save the standard IPCC colormaps (Intergovernmental Panel on Climate Change) for easier usage within the MATLAB environment.
 
+##IPCC Colormaps
+Continuous and Discrete:
+
+Categorical:
+
+
+
 ## Description
 
 The script allows users to:
