@@ -1,4 +1,5 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Standard-Climate-Colormaps-for-MATLAB)
+[![View Standard-Climate-Colormaps-for-MATLAB on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/180750-standard-climate-colormaps-for-matlab)
 
 # Standard Climate Colormaps for MATLAB&reg;
 MATLAB live script to select, import, preview, and save the standard IPCC colormaps (Intergovernmental Panel on Climate Change) for easier usage within the MATLAB environment.
