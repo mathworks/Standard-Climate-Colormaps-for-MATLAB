@@ -47,6 +47,7 @@ This project is licensed under the BSD License - see the LICENSE file for detail
 
 ## Acknowledgments
 
+- Crameri, F. (2018). Scientific colour maps. Zenodo, https://doi.org/10.5281/zenodo.1243862. 
 - The colormaps are sourced from the [IPCC GitHub&reg; repository](https://github.com/IPCC-WG1/colormaps).
 - Copyright 2025, The MathWorks&reg;, Inc.
 
